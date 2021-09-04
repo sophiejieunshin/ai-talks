@@ -5,4 +5,4 @@
 - [SoongsilBERT:BEEP! 혐오 발언을 분류하는 AI with 양기창님](https://github.com/ainblockchain/ai-talks/blob/main/21.06.25-SoongsilBERT:BEEP!.md) @ Clubhouse, 21/06/25  
 - [인공지능 개발자, 그들의 삶이 알고싶다 with Se Jung Kwon](https://github.com/ainblockchain/ai-talks/blob/main/21.07.17-Life%20of%20Engineer_Se%20Jung%20Kwon.md) @ Clubhouse, 21/07/17  
 - [뉴스 기사 댓글로 학습한 KcBEET & KcELECTRA with 이준범 님](https://github.com/ainblockchain/ai-talks/blob/main/21.07.31-kcBERT_KcElectra.md) @ Clubhouse, 21/07/31  
--[개발자와 함께 본 테슬라의 인공지능]https://github.com/sophiejieunshin/ai-talks/blob/main/21.09.04_teslaAI.md @ Clubhouse, 21/09/04
+- [테슬라 인공지능 총정리](https://github.com/sophiejieunshin/ai-talks/blob/main/21.09.04_teslaAI.md) @ Clubhouse, 21/09/04
