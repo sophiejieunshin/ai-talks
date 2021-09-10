@@ -6,4 +6,4 @@
 - [인공지능 개발자, 그들의 삶이 알고싶다 with Se Jung Kwon](https://github.com/ainblockchain/ai-talks/blob/main/21.07.17-Life%20of%20Engineer_Se%20Jung%20Kwon.md) @ Clubhouse, 21/07/17  
 - [뉴스 기사 댓글로 학습한 KcBEET & KcELECTRA with 이준범 님](https://github.com/ainblockchain/ai-talks/blob/main/21.07.31-kcBERT_KcElectra.md) @ Clubhouse, 21/07/31  
 - [테슬라 인공지능 총정리](https://github.com/sophiejieunshin/ai-talks/blob/main/21.09.04_teslaAI.md) @ Clubhouse, 21/09/04
-  [빅모델에 대처하는 Parallelformers 개발기] (https://github.com/sophiejieunshin/ai-talks/blob/main/21.09.11-parallelformers.md) @Clubhouse, 21/09/11
+- [빅모델에 대처하는 Parallelformers 개발기](https://github.com/sophiejieunshin/ai-talks/blob/main/21.09.11-parallelformers.md) @Clubhouse, 21/09/11
