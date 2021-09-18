@@ -7,3 +7,4 @@
 - [뉴스 기사 댓글로 학습한 KcBEET & KcELECTRA with 이준범 님](https://github.com/ainblockchain/ai-talks/blob/main/21.07.31-kcBERT_KcElectra.md) @ Clubhouse, 21/07/31  
 - [테슬라 인공지능 총정리](https://github.com/sophiejieunshin/ai-talks/blob/main/21.09.04_teslaAI.md) @ Clubhouse, 21/09/04
 - [빅모델에 대처하는 Parallelformers 개발기](https://github.com/sophiejieunshin/ai-talks/blob/main/21.09.11-parallelformers.md) @Clubhouse, 21/09/11
+- [디파이와 오픈소스 이야기-돈키 사례를 중심으로](https://github.com/sophiejieunshin/ai-talks/commit/fe9a95156d548a2c8918686050bc9f3e8306d9cf) @Clubhouse, 21/09/18 
